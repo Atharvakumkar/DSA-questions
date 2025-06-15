@@ -1,4 +1,4 @@
-//Linear Search Algorithm
+//Linear Search Algorithm on array
 #include<iostream>
 using namespace std;
 
